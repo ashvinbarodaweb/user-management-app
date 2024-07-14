@@ -1,0 +1,22 @@
+.bg-secondary {
+    background-color: #343a40 !important; /* Dark theme for form background */
+  }
+  
+  .form-control {
+    background-color: #495057; /* Dark input background */
+    color: #ffffff; /* White text */
+  }
+  
+  .form-control::placeholder {
+    color: #ced4da; /* Placeholder color */
+  }
+  
+  .password-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #ced4da;
+  }
+  
